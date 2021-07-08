@@ -1,0 +1,15 @@
+body {
+    margin:0 auto;
+    padding:0;
+    box-sizing: border-box;
+    font-family:Helvetica;
+    font-size:22px;
+    color: seashell;
+    background-color:black;
+    opacity:0.9;
+}
+header {
+    position: fixed;
+    height:69px;
+    
+}
